@@ -39,7 +39,7 @@ Web-based interface for running the Hermes AI agent from any browser or phone.
 ### [Odysseus](https://github.com/warlockmonti/locallyhostedAI)
 `JavaScript` `Self-hosted`
 
-A self-hosted AI workspace — run powerful models locally without relying on external APIs or cloud services.
+A self-hosted AI workspace to run powerful models locally without relying on external APIs or cloud services.
 
 ---
 
