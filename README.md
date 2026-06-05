@@ -1,6 +1,6 @@
 # Nick Montimurro
 AI Engineer and developer of a neural mapping app and gamified language learning apps. Based in CT.  
-My current tech stack of AI agents and my tutoring session scheduling page can all be accessed below.
+Links to my work and current tech stack of AI agents can be accessed below.
 
 ---
 
