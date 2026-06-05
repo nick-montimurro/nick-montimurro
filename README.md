@@ -9,7 +9,7 @@ Links to my work and current tech stack of AI agents can be accessed below.
 ### [JQuest](https://jquest-red.vercel.app/)
 `TypeScript` `React` `Card Game`
 
-A turn-based card strategy RPG that teaches Japanese as you battle Yokai. Earn vocabulary, unlock cards, and conquer ancient Japan.
+A turn-based card strategy RPG that teaches Japanese as you fight off evil Yokai. Earn vocab cards, unlock powerful upgrades and conquer ancient Japan.
 
 ---
 
