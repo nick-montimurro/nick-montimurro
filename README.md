@@ -1,5 +1,6 @@
 # Nick Montimurro
-Full-stack developer building language learning apps and AI-powered tools · CT
+AI Engineer and developer of a neural mapping app and gamified language learning apps. Based in CT.
+Links to my current tech stack of AI agents I use for my workflow and my tutoring session scheduling page.
 
 ---
 
@@ -15,7 +16,7 @@ A turn-based card strategy RPG that teaches Japanese as you battle Yokai. Earn v
 ### [NeuroMap-AI](https://neuro-map-ai.vercel.app/)
 `TypeScript` `AI Agent`
 
-An AI research agent that teaches through dynamic mind map generation — build branching knowledge trees as you explore any topic.
+An AI research agent that teaches through dynamic mind map generation to build branching knowledge trees as you explore any topic you choose.
 
 ---
 
