@@ -1,6 +1,15 @@
 # Nick Montimurro
-AI Engineer and developer of a neural mapping app and gamified language learning apps. Based in CT.  
+AI Engineer and developer of a CI/CD B2B SaaS marketplace for consumer-to-distributor heating oil sales, a neural mapping/researching app and multiple gamified language learning apps. Based in CT.  
 Links to my work and current tech stack of AI agents can be accessed below.
+
+---
+
+## 🌐 Web Platforms & SaaS
+
+### [CashOilSaver](https://cash-oil-saver.vercel.app/)
+`TypeScript` `Serverless` `B2B Marketplace`
+
+A full-stack B2B SaaS marketplace connecting consumers with local heating oil distributors. Features automated lead tracking, an asynchronous transaction ledger with Turbo and a streamlined GitHub-to-Vercel CI/CD deployment pipeline.
 
 ---
 
