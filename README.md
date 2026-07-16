@@ -1,6 +1,6 @@
 # Nick Montimurro
-AI Engineer and developer of a CI/CD B2B SaaS marketplace for consumer-to-distributor heating oil sales, a neural mapping/researching app and multiple gamified language learning apps. Based in CT.  
-Links to my work and current tech stack of AI agents can be accessed below.
+AI developer of a CI/CD B2B SaaS marketplace for consumer-to-distributor heating oil sales, a neural mapping/researching app and multiple gamified language learning apps. Based in CT.  
+Links to my work can be accessed below.
 
 ---
 
