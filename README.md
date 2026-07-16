@@ -43,12 +43,6 @@ A retro arcade RPG where Steve must learn local vocabulary fast — annoy the lo
 
 Web-based interface for running the Hermes AI agent from any browser or phone.
 
----
-
-### [Odysseus](https://github.com/warlockmonti/locallyhostedAI)
-`JavaScript` `Self-hosted`
-
-A self-hosted AI workspace that runs models locally without relying on external APIs or cloud services.
 
 ---
 
